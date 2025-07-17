@@ -1,1 +1,0 @@
-# Given a double x and integer n, calculate x raised to power n. Basically Implement pow(x, n)
